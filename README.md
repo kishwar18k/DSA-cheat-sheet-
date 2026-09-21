@@ -20,6 +20,10 @@ BIG OMEGA: Best Case or Lower bound
 *Space complexity: The memory space taken by the algorithm to run.
 input space: space taken to run the problem 
 axillary space: space taken to store the problem
+Comparison of various time complexities:
+O(1)<O(loglog n)<O(log n)<O(n½)<O(n)<O(nlogn)<O(n²)<O(n³)<O(n^k)<O(2^n)<O(n^n)<O(2^(2^n))
+First 7 learn kr lene se kaam hojayega.
+
 ps.. that is it for now, I will transform it more from my new experiences 
 
 to be continued....
